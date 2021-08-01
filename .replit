@@ -1,0 +1,2 @@
+language = "bash"
+run = "echo Installing PirxcyBot!\npip3 install -U EZFNSetup >/dev/null 2>&1\necho Installed Running!\npython3 main.py"
