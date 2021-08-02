@@ -24,7 +24,7 @@ Gomashio or PDF if you see this keep up the great work <3
 
 I Spent Alot Of Time On This Bot So if You Could Support Me By Joining I would appreciate it!
     - Pirxcy
-"""
+""" 
 
 import os
 import fortnitepy
