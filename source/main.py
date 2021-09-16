@@ -126,12 +126,12 @@ with open('settings.json') as f:
 #I would Make it Async But Thats wayyy To Much Effort For Me.
 #Lesson From Pirxcy Take What You Are Given With.
 
+intro()
 
 client = commands.Bot(
 	command_prefix=data['prefix'],
 	auth=fortnitepy.AuthorizationCodeAuth(
-  intro(),
-  code = input('Enter Code!\n')
+    code = input('Enter Code!\n')
 	)
 )
 
